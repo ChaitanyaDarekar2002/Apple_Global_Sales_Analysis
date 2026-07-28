@@ -1,4 +1,7 @@
-# 🍎 Apple Global Sales Data Analysis
+<h1>
+  <img src="" alt="Apple Logo" width="40" align="center">
+  Apple Global Sales Analysis
+</h1>
 
 ## 📌 Project Overview
 
