@@ -1,7 +1,4 @@
-<h1>
-  <img src="" alt="Apple Logo" width="40" align="center">
-  Apple Global Sales Analysis
-</h1>
+# <img width="35" height="35" alt="Apple_logo" src="https://github.com/user-attachments/assets/f6b36df7-254f-4381-a1a9-2552ba6ed018" /> Apple Global Sales Analysis
 
 ## 📌 Project Overview
 
