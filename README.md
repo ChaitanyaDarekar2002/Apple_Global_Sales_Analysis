@@ -86,6 +86,10 @@ The cleaned dataset was imported into Power BI to create an interactive dashboar
 * Interactive Filters and Slicers
 
 ---
+## Power BI Dashboard Preview
+
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/04e48e2d-f7dd-43b0-8c55-b938294471d9" />
+
 
 ## 📌 Key Insights
 
