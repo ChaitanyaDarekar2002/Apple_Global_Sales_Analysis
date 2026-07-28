@@ -103,28 +103,6 @@ The cleaned dataset was imported into Power BI to create an interactive dashboar
 
 ---
 
-## 📂 Project Structure
-
-```
-Apple-Global-Sales-Analysis/
-│
-├── Dataset/
-│   └── apple_global_sales_dataset.csv
-│
-├── Python/
-│   └── Apple_Data_Analysis.ipynb
-│
-├── PowerBI/
-│   └── Apple_Sales_Dashboard.pbix
-│
-├── Images/
-│   ├── Dashboard.png
-│   ├── Heatmap.png
-│   ├── PairPlot.png
-│   └── Charts.png
-│
-└── README.md
-```
 
 ---
 
